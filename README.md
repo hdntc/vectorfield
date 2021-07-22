@@ -1,8 +1,8 @@
 # vectorfield
 Basic vector field graphing software created for A-Level Computer Science coursework module. Uses SFML to display graphics. Includes an implementation:
 - the shunting yard algorithm to parse mathematical expressions,
-- state machines to control the program flow
-- 4th-order Runge-Kutta to solve the differential equation in question. 
+- state machines to control the program flow, 
+- 4th-order Runge-Kutta integration, to solve the differential equation in question. 
 
 See the development log for how I define and solved the problem.
 
