@@ -6,10 +6,10 @@ Basic vector field graphing software created for A-Level Computer Science course
 
 See the development log for how I define and solved the problem.
 
-The program purports to be an educational tool to a teacher who is teaching vector fields to students.
+The program purports to be an educational tool for a teacher who is teaching vector fields to students.
 
 # To build
-The program is on Github for archival purposes. Regardless, if you want to build it, you only need:
+The program is on GitHub for archival purposes. Regardless, if you want to build it, you only need:
 - SFML libraries
 - A C++ compiler
 
